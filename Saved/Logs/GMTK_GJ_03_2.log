@@ -847,3 +847,67 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.09-22.10.15:637][  2]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.06.09-22.10.15:723][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2021.06.09-22.10.26:563][589]LogSlate: Window 'Source Control Login' being destroyed
+[2021.06.09-22.43.25:643][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Content: 'F:/Unreal Projects/UE_4.26/Engine/Content' is outside repository
+[2021.06.09-22.43.25:643][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository
+[2021.06.09-22.43.25:643][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository
+[2021.06.09-22.43.25:643][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository
+[2021.06.09-22.43.25:643][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository
+[2021.06.09-22.43.25:643][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository
+[2021.06.09-22.43.25:643][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository
+[2021.06.09-22.43.25:644][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository
+[2021.06.09-22.43.25:644][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository
+[2021.06.09-22.43.25:644][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository
+[2021.06.09-22.43.25:644][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository
+[2021.06.09-22.43.25:644][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository
+[2021.06.09-22.43.25:644][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository
+[2021.06.09-22.43.25:644][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository
+[2021.06.09-22.43.25:644][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository
+[2021.06.09-22.43.25:644][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository
+[2021.06.09-22.43.25:644][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository
+[2021.06.09-22.43.25:644][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository
+[2021.06.09-22.43.25:644][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository
+[2021.06.09-22.43.25:644][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository
+[2021.06.09-22.43.25:644][850]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository
+[2021.06.09-22.43.26:141][850]EditorErrors: Warning: No assets to check in!
+[2021.06.09-22.43.43:697][888]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.06.09-22.43.43:705][888]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.06.09-22.43.53:378][467]LogContentBrowser: Attempting asset rename: NewMaterial -> test01
+[2021.06.09-22.43.53:475][467]LogContentBrowser: End creating deferred item NewMaterial
+[2021.06.09-22.43.59:607][824]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.09-22.43.59:641][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Brad/test01" FILE="C:/Users/brad's pc/Documents/GitHub/GMTK/Content/Brad/test01.uasset" SILENT=true
+[2021.06.09-22.43.59:648][824]LogSavePackage: Moving 'C:/Users/brad's pc/Documents/GitHub/GMTK/Saved/test013E86E1F14EF6779FBAB423A0D8D58C4E.tmp' to 'C:/Users/brad's pc/Documents/GitHub/GMTK/Content/Brad/test01.uasset'
+[2021.06.09-22.43.59:967][824]AssetCheck: New page: Asset Save: test01
+[2021.06.09-22.43.59:967][824]LogContentValidation: Display: Validating Material /Game/Brad/test01.test01
+[2021.06.09-22.44.00:064][831]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/brad's pc/Documents/GitHub/GMTK/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2021.06.09-22.44.00:564][861]LogFileManager: Error: Error deleting file 'C:/Users/brad's pc/Documents/GitHub/GMTK/Intermediate/CachedAssetRegistry.bin'.
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Content: 'F:/Unreal Projects/UE_4.26/Engine/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository
+[2021.06.09-22.44.05:326][127]SourceControl: fatal: F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'F:/Unreal Projects/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository
+[2021.06.09-22.44.05:927][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Brad/test01" FILE="C:/Users/brad's pc/Documents/GitHub/GMTK/Content/Brad/test01.uasset" SILENT=true
+[2021.06.09-22.44.05:929][127]LogSavePackage: Moving 'C:/Users/brad's pc/Documents/GitHub/GMTK/Saved/test0197150F7C4DDA4D0C41DB66B17406E404.tmp' to 'C:/Users/brad's pc/Documents/GitHub/GMTK/Content/Brad/test01.uasset'
+[2021.06.09-22.44.15:084][127]LogSlate: Window 'Submit Files' being destroyed
+[2021.06.09-22.44.15:363][127]LogSourceControl: commit successful: [main 0b26847] test pust
+[2021.06.09-22.44.15:407][127]SourceControl: [main 0b26847] test pust
+[2021.06.09-22.44.15:407][127]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2021.06.09-22.44.15:407][127]SourceControl:  create mode 100644 Content/Brad/test01.uasset
+[2021.06.09-22.44.15:413][127]SourceControl: Commited [main 0b26847] test pust.
+[2021.06.09-22.44.15:443][128]AssetCheck: New page: Asset Save: test01
+[2021.06.09-22.44.15:444][128]LogContentValidation: Display: Validating Material /Game/Brad/test01.test01
