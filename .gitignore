@@ -76,3 +76,8 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Saved/Logs/GMTK_GJ_03.log
+Intermediate/CachedAssetRegistry.bin
+Saved/AutoScreenshot.png
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/Config/Windows/Engine.ini
+Saved/Logs/GMTK_GJ_03.log
